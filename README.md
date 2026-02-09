@@ -55,3 +55,13 @@ git add README.md file1.txt
 git commit -m "Project 2: Git practice labs"
 git push -u origin main
 
+![branch-mismatch](images/branch-mismatch.png)
+![correction](images/correction-repocreation-in-github.png)
+
+## based on the screenshot you will notice some challenges
+## My local repository is on branch master
+## I tried to push main
+## Git cannot push a branch that does not exist locally
+## Renamed the branch
+## also discovered that i had not clicked the create button
+## in github to create the repo
