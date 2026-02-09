@@ -58,10 +58,23 @@ git push -u origin main
 ![branch-mismatch](images/branch-mismatch.png)
 ![correction](images/correction-repocreation-in-github.png)
 
-## based on the screenshot you will notice some challenges
-## My local repository is on branch master
-## I tried to push main
-## Git cannot push a branch that does not exist locally
-## Renamed the branch
-## also discovered that i had not clicked the create button
-## in github to create the repo
+## Based on the screenshot you will notice some challenges
+ My local repository is on branch master
+ I tried to push main
+ Git cannot push a branch that does not exist locally
+ Renamed the branch
+ also discovered that i had not clicked the create button in github to create the repo
+
+## Learning Outcomes
+
+Understand Git repository initialization
+
+Practice staging and committing files
+
+Create and manage feature branches
+
+Perform branch merging
+
+Resolve merge conflicts manually
+
+Push local repositories to GitHub
